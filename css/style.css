@@ -258,23 +258,6 @@ a:hover
 	background:url('../img/icon-linkedin.png') no-repeat left bottom;
 }
 
-.social-icon.icon-krug
-{
-	background:#72afce;
-	color:#fff;
-}
-
-.social-icon.icon-krug:hover
-{
-	background:#80c5e8;
-	color:#fff;
-}
-
-.social-icon.icon-krug span
-{
-	background:url('../img/icon-krug.png') no-repeat left bottom;
-}
-
 .social-icon.icon-git
 {
 	background:#5eaee6;
